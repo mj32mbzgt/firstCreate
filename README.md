@@ -4,4 +4,4 @@
 
 - 研修中
 
-- 始めました:smile::cat::octocat:
+- 始めました:smile::bug::octocat:
